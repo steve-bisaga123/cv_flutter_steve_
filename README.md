@@ -1,3 +1,8 @@
+<img width="1920" height="1080" alt="Capture d’écran 5" src="https://github.com/user-attachments/assets/2c88f3d3-2ab7-47b3-8b8f-482e67da4749" />
+<img width="1920" height="1080" alt="Capture d’écran 4" src="https://github.com/user-attachments/assets/32d90036-5fb6-4922-a409-3efaa745d683" />
+<img width="1920" height="1080" alt="Capture d’écran 3" src="https://github.com/user-attachments/assets/5f3529ac-a5ee-4920-b67d-ba44baae94c8" />
+<img width="1920" height="1080" alt="Capture d’écran 1" src="https://github.com/user-attachments/assets/1307c31c-4b07-4895-95d6-5297f28a6e7b" />
+<img width="1920" height="1080" alt="Capture d’écran 2" src="https://github.com/user-attachments/assets/9ee3c130-c072-4e37-b7e2-34da12076dba" />
 # cv_flutter_steve
 
 Application Flutter de présentation d’un CV, de la famille et des coordonnées.
